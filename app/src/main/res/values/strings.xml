@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yelp Sample</string>
+    <string name="message_adding_new_items">Added %1$d new items (Total items: %2$d)</string>
+    <string name="message_network_connectivity_false">You are not connected to the network.</string>
+    <string name="message_network_connectivity_true">You are connected to the network.</string>
+    <string name="error_could_not_load_yelp_data">Could not load Yelp data. Please check your network connection.</string>
+</resources>
